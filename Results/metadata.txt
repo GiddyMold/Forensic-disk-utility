@@ -1,0 +1,92 @@
+======== P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir1/TextFile1.txt
+ExifTool Version Number         : 12.69
+File Name                       : TextFile1.txt
+Directory                       : P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir1
+File Size                       : 6 bytes
+File Modification Date/Time     : 2023:11:06 18:52:41+01:00
+File Access Date/Time           : 2024:01:18 10:28:11+01:00
+File Creation Date/Time         : 2024:01:18 10:28:11+01:00
+File Permissions                : -r--r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : (none)
+Line Count                      : 1
+Word Count                      : 1
+======== P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir1/TextFile2.txt
+ExifTool Version Number         : 12.69
+File Name                       : TextFile2.txt
+Directory                       : P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir1
+File Size                       : 15 bytes
+File Modification Date/Time     : 2023:11:06 18:52:44+01:00
+File Access Date/Time           : 2024:01:18 10:28:11+01:00
+File Creation Date/Time         : 2024:01:18 10:28:11+01:00
+File Permissions                : -r--r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : (none)
+Line Count                      : 1
+Word Count                      : 1
+======== P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir1/TextFile3.txt
+ExifTool Version Number         : 12.69
+File Name                       : TextFile3.txt
+Directory                       : P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir1
+File Size                       : 12 bytes
+File Modification Date/Time     : 2023:11:06 18:52:47+01:00
+File Access Date/Time           : 2024:01:18 10:28:11+01:00
+File Creation Date/Time         : 2024:01:18 10:28:11+01:00
+File Permissions                : -r--r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : (none)
+Line Count                      : 1
+Word Count                      : 1
+======== P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir2/TextFile4.txt
+ExifTool Version Number         : 12.69
+File Name                       : TextFile4.txt
+Directory                       : P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir2
+File Size                       : 14 bytes
+File Modification Date/Time     : 2023:11:06 18:52:52+01:00
+File Access Date/Time           : 2024:01:18 10:28:11+01:00
+File Creation Date/Time         : 2024:01:18 10:28:11+01:00
+File Permissions                : -r--r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : (none)
+Line Count                      : 1
+Word Count                      : 1
+======== P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir2/TextFile5.txt
+ExifTool Version Number         : 12.69
+File Name                       : TextFile5.txt
+Directory                       : P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir2
+File Size                       : 18 bytes
+File Modification Date/Time     : 2023:11:06 18:52:55+01:00
+File Access Date/Time           : 2024:01:18 10:28:11+01:00
+File Creation Date/Time         : 2024:01:18 10:28:11+01:00
+File Permissions                : -r--r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : (none)
+Line Count                      : 1
+Word Count                      : 1
+======== P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir3/TextFile6.txt
+ExifTool Version Number         : 12.69
+File Name                       : TextFile6.txt
+Directory                       : P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy/Disk/Dir3
+File Size                       : 0 bytes
+File Modification Date/Time     : 2023:10:24 19:07:46+02:00
+File Access Date/Time           : 2023:10:24 19:07:46+02:00
+File Creation Date/Time         : 2024:01:18 10:28:11+01:00
+File Permissions                : -r--r--r--
+Error                           : File is empty
+    5 directories scanned
+    6 image files read

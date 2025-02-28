@@ -1,0 +1,33 @@
+Auditor full name: Arkadiusz Parafiniuk
+Drive exact path: D:\
+Mountpoint path: D:\
+File system type: UDF
+Total size: 614.4 kB
+Used space: 614.4 kB
+Free space: 0 Bytes
+Usage percentage: 100.0%
+Options: ro,readonly,cdrom
+Max file descriptors: 254
+Max filename length: 260
+Source Drive: D
+First Copy Destination Path: P:/SZKOLA/Semestr 9/Forensics/Forensics/First_Copy
+Second Copy Destination Path: P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy
+Start Time: 2024-01-18 10:28:11.764318
+End Time: 2024-01-18 10:28:12.078181
+Running Time: 0:00:00.313863 seconds
+
+Hashes of the files in the first copy:
+P:/SZKOLA/Semestr 9/Forensics/Forensics/First_Copy\Disk\Dir1\TextFile1.txt: ea751f4c41e72f29a12762f9357ef7d9663de267175eabf02878b0a491fdfc56387f472381bde3d61f088131ff33d301fdd7bff63a2e54b37a2b89814bf1b5e5
+P:/SZKOLA/Semestr 9/Forensics/Forensics/First_Copy\Disk\Dir1\TextFile2.txt: daa9f2c0e6cb82e68a2323234a212e59e019de82d5da1f32636bf477d6c6cd6d49656fa5382a55c3cd3d810b57723ae08e15ffa16e86821f88260f788a820bf6
+P:/SZKOLA/Semestr 9/Forensics/Forensics/First_Copy\Disk\Dir1\TextFile3.txt: cb4c45049ede98c51c638233cdded72a9ac238ee97d2390ad65d613be1b55d24c7641d93d1041bdbd800e26fdf86524c745ad635101da1f3f930cdeac41db457
+P:/SZKOLA/Semestr 9/Forensics/Forensics/First_Copy\Disk\Dir2\TextFile4.txt: fb18cc2606e5c01f17f21fe5ba3158eab7e2d00d20642238261bfc57fd68e639127dbe75defcaf095a67ec969d27a464197304eee16fc95e30464cd404975b41
+P:/SZKOLA/Semestr 9/Forensics/Forensics/First_Copy\Disk\Dir2\TextFile5.txt: 89743b198a2fcde7eb51d5db6e96d7d42cbedb1cc11c44a82f5d2c693b1721d223e250ce866c735a240986f2b441e9097f98ac4fd4becea01a3b823aad7168f5
+P:/SZKOLA/Semestr 9/Forensics/Forensics/First_Copy\Disk\Dir3\TextFile6.txt: cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e
+
+Hashes of the files in the second copy:
+P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy\Disk\Dir1\TextFile1.txt: ea751f4c41e72f29a12762f9357ef7d9663de267175eabf02878b0a491fdfc56387f472381bde3d61f088131ff33d301fdd7bff63a2e54b37a2b89814bf1b5e5
+P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy\Disk\Dir1\TextFile2.txt: daa9f2c0e6cb82e68a2323234a212e59e019de82d5da1f32636bf477d6c6cd6d49656fa5382a55c3cd3d810b57723ae08e15ffa16e86821f88260f788a820bf6
+P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy\Disk\Dir1\TextFile3.txt: cb4c45049ede98c51c638233cdded72a9ac238ee97d2390ad65d613be1b55d24c7641d93d1041bdbd800e26fdf86524c745ad635101da1f3f930cdeac41db457
+P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy\Disk\Dir2\TextFile4.txt: fb18cc2606e5c01f17f21fe5ba3158eab7e2d00d20642238261bfc57fd68e639127dbe75defcaf095a67ec969d27a464197304eee16fc95e30464cd404975b41
+P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy\Disk\Dir2\TextFile5.txt: 89743b198a2fcde7eb51d5db6e96d7d42cbedb1cc11c44a82f5d2c693b1721d223e250ce866c735a240986f2b441e9097f98ac4fd4becea01a3b823aad7168f5
+P:/SZKOLA/Semestr 9/Forensics/Forensics/Second_Copy\Disk\Dir3\TextFile6.txt: cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e
