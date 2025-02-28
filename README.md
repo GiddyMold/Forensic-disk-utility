@@ -19,36 +19,3 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/forensic-drive-backup.git
 ```
-
-Run the Program
-
-To use the tool, simply execute the script:
-
-bash
-Copy
-Edit
-python main.py
-Input the Required Information
-
-You will be prompted to enter the following details:
-
-Name of the operation
-Source path (the location of the drive you want to back up)
-Source drive letter
-Destination path (the location where the backup will be stored)
-Process Overview
-
-The tool will start by gathering information about the source drive and its file system.
-It will perform the initial copy of the drive to the destination.
-Hashes will be generated for file integrity checks.
-After duplicating the drive, the file tree and metadata of the destination folder will be collected.
-All results and logs will be saved for future reference.
-Result Logs
-
-After completing the process, the tool will output detailed logs including:
-
-Start and end timestamps
-Running time
-Drive parameters
-File hashes for integrity verification
-Metadata of the destination folder
